@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (Add your link)
+- LinkedIn: https://www.linkedin.com/in/vipin-yadav-a794a4273?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: vipinavengers@gmail.com  
 
 ---
