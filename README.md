@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Vipin Yadav
 
-<!--
-**Vipin-devs/Vipin-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer | 📊 Data Analytics Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently learning Data Structures & Algorithms  
+- 💡 Interested in Software Development & Data Analysis  
+- 📊 Hands-on experience with Python, SQL & Power BI  
+- 🎯 Goal: To get placed in a top tech company FAANG  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, C, JavaScript  
+- 🌐 Web: HTML, JavaScript  
+- 🗄️ Databases: MySQL, Oracle  
+- 📊 Tools: Power BI, OpenCV  
+
+---
+
+## 📂 Projects
+
+### 🔹 Face Mask Detection System
+- Built using Python & OpenCV  
+- Real-time detection using computer vision  
+
+### 🔹 Airline Reservation System
+- Developed using JavaScript & MySQL  
+- Handles booking, seat selection & records  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (Add your link)
+- Email: vipinavengers@gmail.com  
+
+---
+
+⭐ Keep learning, keep building!
