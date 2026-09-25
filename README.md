@@ -13,8 +13,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C, JavaScript  
-- 🌐 Web: HTML, JavaScript  
+- 💻 Languages: Python, C,
+- 🌐 Web: HTML, CSS, Javascript  
 - 🗄️ Databases: MySQL, Oracle  
 - 📊 Tools: Power BI, OpenCV  
 
