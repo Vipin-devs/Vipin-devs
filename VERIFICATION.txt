@@ -1,0 +1,10 @@
+about-life.svg: XML valid; external asset URLs=0; SMIL=True; size=231601 bytes
+connect.svg: XML valid; external asset URLs=0; SMIL=True; size=1261385 bytes
+hero.svg: XML valid; external asset URLs=0; SMIL=True; size=1751272 bytes
+id-dashboard.svg: XML valid; external asset URLs=0; SMIL=True; size=1751703 bytes
+stack.svg: XML valid; external asset URLs=0; SMIL=False; size=231998 bytes
+README has 5 versioned SVG paths: 5
+Images preserve black background and are RGB/no alpha; no silhouette masks fabricated.
+Chromium captures: 35 PNG files (5 timestamps, static view, img-element view × 5 SVGs).
+
+Chromium captures generated for each SVG at 0, 2, 5, 9, and 13 seconds, with animation removed, and as an img element.
